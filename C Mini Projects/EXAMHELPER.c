@@ -1,3 +1,5 @@
+//EXAM HELPER 
+
 #include<stdio.h>
 void main(){
 
